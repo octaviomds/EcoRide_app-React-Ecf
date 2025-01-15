@@ -89,22 +89,6 @@ ajouter un fichier gitignore
 echo node_modules > .gitignore
 
 creer un fichier vercel:
-{
-"version" : 2,
-  "Construit" : [
-{
-"Src" : "index.js",
-      "utilisation" : "@vercel/node"
-}
-],
-"itinéraires" : [
-{
-"src" : "/(. *)",
-      "dest" : "index.js"
-}
-]
-}
-
 
 Connectez au compte Vercel et accédez à votre tableau de bord.
 Cliquez sur "Nouveau projet" et importez le référentiel GitHub créer.

@@ -1,5 +1,6 @@
 
-![IMG_1502 2](https://github.com/user-attachments/assets/de6054bc-a1f8-4c8c-b814-77ce463356f8)
+<img width="251" alt="Capture d’écran 2025-02-08 à 02 15 12" src="https://github.com/user-attachments/assets/b33f9f26-9990-4053-af69-c471d11f3608" />
+
 
 <img width="1514" alt="Capture d’écran 2025-02-08 à 00 25 19" src="https://github.com/user-attachments/assets/bc76339c-a320-4200-bbd7-2fbee93e2e50" />
 
